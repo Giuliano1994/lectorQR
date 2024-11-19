@@ -1,0 +1,12 @@
+com\qr\lectorqr\config\CorsConfig$1.class
+com\qr\lectorqr\service\ProductoService.class
+com\qr\lectorqr\dto\ProductoRespuestaDTO.class
+com\qr\lectorqr\mapper\ProductoMapper.class
+com\qr\lectorqr\exception\ProductoNotFoundException.class
+com\qr\lectorqr\config\CorsConfig.class
+com\qr\lectorqr\utils\GeneradorQR.class
+com\qr\lectorqr\entity\ProductoEntity.class
+com\qr\lectorqr\LectorqrApplication.class
+com\qr\lectorqr\dto\ProductoDTO.class
+com\qr\lectorqr\controller\ProductoController.class
+com\qr\lectorqr\repository\ProductoRepository.class
